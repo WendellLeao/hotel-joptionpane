@@ -1,3 +1,3 @@
 # hotel-joptionpane
 
-My first application made with Java, using JOptionPane.
+My first application written in Java, using JOptionPane.
